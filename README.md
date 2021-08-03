@@ -21,5 +21,5 @@
     - 20대와 30대 공통 best 10 제품
 
 ## 개발환경
-jsp
-PostgrSQL
+- jsp
+- PostgrSQL
